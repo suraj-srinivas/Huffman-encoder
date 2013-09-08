@@ -1,4 +1,4 @@
-Huffman-encoder--Verilog-
+Huffman-encoder
 =========================
 
 This is an implementation of the huffman encoder written in Verilog HDL.
